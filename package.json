@@ -1,0 +1,28 @@
+{
+  "name": "first-pet-project-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bozhenko-zakhar/first-pet-project-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/bozhenko-zakhar/first-pet-project-backend/issues"
+  },
+  "homepage": "https://github.com/bozhenko-zakhar/first-pet-project-backend#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3",
+    "nodemon": "^3.1.14"
+  }
+}
